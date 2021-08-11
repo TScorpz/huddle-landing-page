@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots/screenshot.npg?raw=true)
+![](/screenshots/screenshot.png?raw=true)
 
 ### Links
 
