@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TScorpz/huddle-landing-page-with-single-introductory-section-master)
+- Solution URL: [Here](https://github.com/TScorpz/huddle-landing-page-with-single-introductory-section-master)
 
 ## My process
 
@@ -48,4 +48,5 @@ Users should be able to:
 ## Author
 
 - My - [GitHub](https://github.com/TScorpz)
+- LinkedIn - [Jevgenij D](https://www.linkedin.com/in/jevgenij-dachno-5403b696/)
 - Frontend Mentor - [@TScorpz](https://www.frontendmentor.io/profile/TScorpz)
