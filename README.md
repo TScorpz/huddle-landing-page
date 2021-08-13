@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here](https://github.com/TScorpz/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Here](https://tscorpz.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -47,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- My - [GitHub](https://github.com/TScorpz)
+- My Github - [TScorpz](https://github.com/TScorpz)
 - LinkedIn - [Jevgenij D](https://www.linkedin.com/in/jevgenij-dachno-5403b696/)
 - Frontend Mentor - [@TScorpz](https://www.frontendmentor.io/profile/TScorpz)
